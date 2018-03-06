@@ -1,0 +1,7 @@
+127.0.0.1 - - [12/Mar/2017:19:15:38 +0200] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [12/Mar/2017:19:15:40 +0200] "GET /JUST_Project/WEB-INF/classes/test/HibernanteUtil.java HTTP/1.1" 404 992
+127.0.0.1 - - [12/Mar/2017:19:29:50 +0200] "GET /JUST_Project/WEB-INF/classes/test/TestDB.java HTTP/1.1" 404 992
+127.0.0.1 - - [12/Mar/2017:19:31:13 +0200] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [12/Mar/2017:19:31:14 +0200] "GET /JUST_Project/WEB-INF/classes/test/TestDB.java HTTP/1.1" 404 992
+127.0.0.1 - - [12/Mar/2017:19:37:27 +0200] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [12/Mar/2017:19:37:29 +0200] "GET /JUST_Project/WEB-INF/classes/test/TestDB.java HTTP/1.1" 404 992

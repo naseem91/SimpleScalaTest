@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE taglib PUBLIC "-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.2//EN" "http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd" >
+<taglib>
+	<tlib-version>1.0</tlib-version>
+	<jsp-version>2.2</jsp-version>
+	<short-name>Registered Students Tag</short-name>
+	<tag>
+		<name>StudentHeader</name>
+		<tag-class>customTag.StudentHeaderHandler</tag-class>
+		<body-content>empty</body-content>
+	</tag>
+	<tag>
+		<name>Semester</name>
+		<tag-class>customTag.SemesterHandler</tag-class>
+		<body-content>empty</body-content>
+	</tag>
+	<tag>
+		<name>LastRegistered</name>
+		<tag-class>customTag.LastRegisteredHandler</tag-class>
+		<body-content>empty</body-content>
+	</tag>
+</taglib>
